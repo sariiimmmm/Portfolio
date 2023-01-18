@@ -1,7 +1,7 @@
-# welcome to my Portfolio 
+# Welcome to my Portfolio 
 
 
-### here you can check out my lab during my Bootcamp in Ironhack work as well as projects that I worked on. 
+## here you can check out my lab during my Bootcamp in Ironhack work as well as projects that I worked on. 
 
 
 ## content 
